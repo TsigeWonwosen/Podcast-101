@@ -16,19 +16,40 @@
 
 .hero span {
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 15px;
+  color: rgb(192, 186, 186);
 }
 
 .hero .platform {
+  margin: 1rem auto;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 28%;
+  height: 100px;
+  color: rgb(190, 184, 184);
 }
 
 .hero h1 {
-  width: 30%;
+  width: 50%;
   margin: 0.5rem auto;
-  font-size: 50px;
+  font-size: 70px;
   text-align: center;
   text-transform: uppercase;
   font-weight: 900;
   line-height: 1;
+}
+
+.hero .material-icons-outlined {
+  font-size: 50px;
+  margin-left: 0.4rem;
+  margin-bottom: 1rem;
+  transform: scale(1.2);
+}
+
+.hero .icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
