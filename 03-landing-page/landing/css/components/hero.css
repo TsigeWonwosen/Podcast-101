@@ -1,0 +1,34 @@
+.hero {
+  width: 100%;
+  height: 90vh;
+  background-color: #080622;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../images/bg-mobile.jpg");
+  object-fit: cover;
+  background-position: center center;
+  background-size: cover;
+  background-blend-mode: saturation;
+  color: #fff;
+}
+
+.hero span {
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.hero .platform {
+  display: flex;
+}
+
+.hero h1 {
+  width: 30%;
+  margin: 0.5rem auto;
+  font-size: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+  line-height: 1;
+}
