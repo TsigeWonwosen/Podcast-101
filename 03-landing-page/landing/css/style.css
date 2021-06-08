@@ -25,10 +25,22 @@ h2,
 h3,
 h4 {
   font-family: Poppins;
+  margin-bottom: 1rem;
 }
 
 a {
   text-decoration: none;
+}
+
+.line {
+  width: 100px;
+  height: 10px;
+  background-color: #f05d23;
+  border-radius: 2px 5px 2px 5px;
+  margin: 1rem 0 2rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 
 /* Custom design below! */

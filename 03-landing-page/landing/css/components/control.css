@@ -17,6 +17,9 @@
   padding: 2rem 4rem;
 }
 .control .title h2 {
+  width: 100%;
+  text-align: left;
+  text-transform: uppercase;
   color: rgb(55, 55, 182);
 }
 
