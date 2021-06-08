@@ -1,12 +1,18 @@
 .nav {
+  position: absolute;
+  top: 0;
+  left: 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0 2rem;
   height: 80px;
-  background-color: #120e4d;
-  color: rgb(224, 219, 219);
+  width: 100%;
+  background-color: transparent;
+  color: rgb(190, 183, 183);
   font-family: "Open sans";
+  border-bottom: rgba(20, 24, 214, 0.2);
+  box-shadow: 0 1px 0.2rem rgba(0, 0, 0, 0.2);
 }
 
 .nav .fas {
@@ -31,4 +37,5 @@
   font-size: 30px;
   font-weight: 600;
   cursor: pointer;
+  color: rgb(190, 183, 183);
 }
