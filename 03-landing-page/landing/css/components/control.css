@@ -1,0 +1,25 @@
+.control {
+  min-width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 4rem 3rem;
+  background-color: #e2fcef;
+}
+
+.control img {
+  width: 40%;
+  height: 90%;
+}
+
+.control .title {
+  padding: 2rem 4rem;
+}
+.control .title h2 {
+  color: rgb(55, 55, 182);
+}
+
+.control .title p {
+  color: rgb(100, 100, 175);
+}
