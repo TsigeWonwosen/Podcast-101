@@ -36,7 +36,7 @@ a {
   width: 100px;
   height: 10px;
   background-color: #f05d23;
-  border-radius: 2px 5px 2px 5px;
+  border-radius: 0 5px 5px 0;
   margin: 2rem 0 1rem;
   display: flex;
   justify-content: flex-start;
