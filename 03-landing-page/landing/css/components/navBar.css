@@ -31,11 +31,20 @@
   margin-left: 1rem;
   font-weight: 500;
   cursor: pointer;
+  transition: all 0.3s ease-in-out;
 }
 
+.nav ul li:hover {
+  color: rgb(255, 255, 255);
+}
 .nav ul li span {
   font-size: 30px;
   font-weight: 600;
   cursor: pointer;
   color: rgb(190, 183, 183);
+  transition: all 0.3s ease-in-out;
+}
+
+.nav ul li span:hover {
+  color: rgb(250, 248, 248);
 }
