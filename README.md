@@ -1,2 +1,5 @@
-# css-components
-exercises on CSS components
+# PODCAST 101
+
+## Project
+
+![PODCASTS 101](PODCASTS-101.jpg)
