@@ -2,4 +2,4 @@
 
 ## Project
 
-![PODCASTS 101](PODCASTS-101.jpg)
+![PODCASTS 101](PODCASTS.jpg)
